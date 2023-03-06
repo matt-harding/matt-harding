@@ -13,6 +13,12 @@
 
 <br>
 
+# Stuff I've Done
+
+### Data Science Festival Talk
+
+[<img src="http://i3.ytimg.com/vi/i8ZsHVlZcwM/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=i8ZsHVlZcwM "DSF Talk")
+
 
 # Work Experience
 
@@ -64,6 +70,9 @@ The project was to build a dashboard on Stablecoins. Assisted in the [validation
 *Oct 2021*
 ### AWS Certified Developer 
 *Oct 2020*
+
+
+
 
 
 
