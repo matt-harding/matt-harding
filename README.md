@@ -6,9 +6,9 @@
 
 * Frontend – Typescript, React, Vue.js, Bulma, SCSS
 * Backend – Python, Docker, Kubernetes
-* Infra - Terraform
 * Cloud – AWS (API Gateway, Lambda, DynamoDB, RDS, S3)
 * ML – AWS Sagemaker, Huggingface
+* Tooling - Git, Terraform
 
 
 <br>
@@ -17,7 +17,11 @@
 
 ### Data Science Festival Talk
 
-[<img src="http://i3.ytimg.com/vi/i8ZsHVlZcwM/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=i8ZsHVlZcwM "DSF Talk")
+[<img src="https://i.ytimg.com/vi/i8ZsHVlZcwM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=i8ZsHVlZcwM "Youtube - DSF Talk")
+
+### TechCrunch Disrupt 2019 Hackathon Winner
+
+[<img src="https://miro.medium.com/v2/resize:fit:720/0*MnoPB4A643sF-z3i" width="50%">](https://medium.com/@KinshipCo/kinship-disrupts-79d7e18cf811 "Medium link")
 
 
 # Work Experience
