@@ -15,7 +15,7 @@
 <br>
 
 # Contact Me
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="25%">](https://www.linkedin.com/in/matthewrharding/)
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png">](https://www.linkedin.com/in/matthewrharding/)
 
 
 <br>
