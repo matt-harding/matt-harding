@@ -12,8 +12,10 @@
 * Monitoring: Prometheus
 * Cloud: AWS, Azure
 
+<br>
 
-[Linkedin](https://www.linkedin.com/in/matthewrharding/)
+# Contact Me
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png">](https://www.linkedin.com/in/matthewrharding/)
 
 
 <br>
